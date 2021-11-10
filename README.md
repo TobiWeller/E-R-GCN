@@ -60,7 +60,7 @@ The use of the evidential learning approach makes no overconfident predictions a
 
 ## Citation
 If you use this code for evidential learning as part of your project or paper, please cite the following work:  
-
+```
 @inproceedings{weller2021ergcn,
     author = {Weller, Tobias and Paulheim, Heiko},
     title = {Evidential Relational-Graph Convolutional Networks for Entity Classification in Knowledge Graphs},
@@ -77,7 +77,7 @@ If you use this code for evidential learning as part of your project or paper, p
     location = {Virtual Event, Queensland, Australia},
     series = {CIKM '21}
 }
-    
+```
 
 ## Licence
 Shield: [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
